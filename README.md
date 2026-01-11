@@ -60,15 +60,14 @@ The repository contains the following files:
 ## Contact Information
 
 For any questions or collaborations, feel free to reach out:
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email Address]
-- **Portfolio**: [Your Portfolio Website]
+- **LinkedIn**: https://www.linkedin.com/in/lokesh-gaddam-054b23252
+- **Email**: lokeshgaddam2514@gmail.com
+- **Portfolio**: https://lokeshgaddam14.github.io/portfolio/
 
 ---
 
 **Author**: Lokesh Gaddam
 **Date**: January 11, 2026
-**Location**: Tenali, Andhra Pradesh, Indiaallocation of drivers is needed to balance this disparity.
 
 Temporal analysis shows clear patterns in rider behavior, with demand peaking during morning and evening rush hours (approximately 8-10 AM and 5-7 PM), aligning with typical commuter patterns. Weekday analysis indicates higher demand on weekdays compared to weekends, with Friday showing particularly high activity. The visualization of demand gaps by time slot clearly illustrates that Evening and Night periods experience the most significant unfulfilled requests, highlighting a critical operational challenge that requires targeted interventions.
 
